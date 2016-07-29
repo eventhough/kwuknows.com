@@ -7,7 +7,14 @@ body {
   color: #555;
 }
 
-h1, h2, h3, h4, h5 strong {
+h1, h2, h3, h4, h5 {
+  margin-top: 1em;
+  padding-top: 1em;
+  color: #333;
+  font-weight: 700;
+}
+
+strong {
   color: #333;
   font-weight: 700;
 }
